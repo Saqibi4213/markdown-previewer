@@ -30,9 +30,6 @@ This is a simple React-based Markdown previewer, built as part of the FreeCodeCa
 3. Start the development server by running `npm start` or `yarn start`.
 4. Open your web browser and navigate to `http://localhost:3000` to view the Markdown previewer.
 
-## Deployment 🚀
-The project is deployed and available at the following URL: [https://your-project-url.com]
-
 ## Testing
 All the required user stories and tests have been successfully completed and passed.
 
