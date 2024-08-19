@@ -27,7 +27,7 @@ Code block
 \nNew line here after two spaces at the end of this line.
 
 ![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)`;
-
+// eslint-disable-next-line no-unused-vars
 function MarkdownPreviewer() {
   const [markdown, setMarkdown] = useState(initialMarkdown);
 
