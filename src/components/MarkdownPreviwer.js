@@ -1,4 +1,6 @@
+// eslint-disable-next-line no-unused-vars
 import React, { useState } from 'react';
+// eslint-disable-next-line no-unused-vars
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import remarkBreaks from 'remark-breaks';
@@ -43,7 +45,7 @@ function MarkdownPreviewer() {
       <div className="App">
         <textarea id="editor" value={markdown} onChange={handleChange} />
         <div id="preview">
-          <ReactMarkdown remarkPlugins={[remarkGfm, remarkBreaks, remarkImages]}>{markdown}</ReactMarkdown>
+          <ReactMarkdown remarkPlugins={[remarkGfm, remarkBreaks]}>{markdown}</ReactMarkdown>
         </div>
       </div>
     </>
