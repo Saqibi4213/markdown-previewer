@@ -1,0 +1,71 @@
+* {
+  color: rgb(235, 241, 247);
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #292826;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 40px;
+  width: 80%;
+  margin-bottom: 100px;
+}
+
+#editor {
+  width: 100%;
+  height: 70vh;
+  font-size: 18px;
+  background-color: #241e1e94;
+  resize: none;
+  color: white;
+  padding: 20px;
+  overflow: auto;
+  border-radius: 10px;
+}
+
+#preview {
+  width: 100%;
+  height: 70vh;
+  margin-top: 20px;
+  font-size: 18px;
+  background-color: #241e1e94;
+  color: white;
+  padding: 20px;
+  overflow: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgb(121, 117, 117), 0 6px 20px rgba(124, 122, 122, 0.418);
+}
+
+img {
+  max-width: 100%;
+}
+
+#heading {
+  text-align: center;
+  margin-top: 50px;
+}
+
+@media screen and (min-width: 768px) {
+  .App {
+    flex-direction: row;
+    width: 80%;
+  }
+
+  #editor {
+    width: 50%;
+    height: 80vh;
+    margin-right: 10px;
+  }
+
+  #preview {
+    width: 50%;
+    height: 80vh;
+    margin-left: 10px;
+    margin-top: 0;
+  }
+}
