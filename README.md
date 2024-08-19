@@ -6,8 +6,8 @@ This is a simple React-based Markdown previewer, built as part of the FreeCodeCa
 
 ## Demo 📸
 
-
-![Demo](./src/images/ran.png)
+![Demo](./src/image/r1.png)
+![Demo](./src/image/r2.png)
 ![FreeCodeCamp](./src/images/freecodecamp.png)
 <br>
  [Live-link](https://66c0c47db5731c8f34cdbfdf--lucent-fox-8ac766.netlify.app/)
