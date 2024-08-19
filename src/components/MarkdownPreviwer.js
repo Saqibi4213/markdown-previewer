@@ -28,7 +28,7 @@ Code block
 
 ![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)`;
 
-function MarkdownPreviwer() {
+function MarkdownPreviewer() {
   const [markdown, setMarkdown] = useState(initialMarkdown);
 
   const handleChange = (e) => {
@@ -50,4 +50,4 @@ function MarkdownPreviwer() {
   );
 }
 
-export default MarkdownPreviwer;
+export default MarkdownPreviewer;
