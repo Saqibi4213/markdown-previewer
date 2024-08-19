@@ -1,4 +1,5 @@
 import './App.css';
+// eslint-disable-next-line no-unused-vars
 import MarkdownPreviwer from './components/MarkdownPreviwer';
 
 function App() {
