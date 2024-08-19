@@ -8,9 +8,9 @@ This is a simple React-based Markdown previewer, built as part of the FreeCodeCa
 
 ![Demo](./src/image/r1.png)
 ![Demo](./src/image/r2.png)
-![FreeCodeCamp](./src/images/freecodecamp.png)
+![FreeCodeCamp](./src/image/f1.png)
 <br>
- [Live-link](https://66c0c47db5731c8f34cdbfdf--lucent-fox-8ac766.netlify.app/)
+ [Live-link](https://markdown-section--luminous-bublanina-3f1736.netlify.app/)
 
 ## Features ⭐
 - Users can enter Markdown text in the textarea with the ID "editor".
@@ -40,7 +40,7 @@ All the required user stories and tests have been successfully completed and pas
 This project was built as part of the FreeCodeCamp curriculum. The project requirements and the provided Markdown previewer example were sourced from the FreeCodeCamp website.
 
 ## Author 👩‍💻
-- Website: [website.com]( )
+- Website: [website.com]( https://markdown-section--luminous-bublanina-3f1736.netlify.app/)
 - LinkedIn: [Mehria saqibi](https://www.linkedin.com/in/mehria-saqibi-a386a41a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: [email](mosawermh@gmail.com)
 
